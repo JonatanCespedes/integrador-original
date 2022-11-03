@@ -1,0 +1,61 @@
+Categorias
+
+** Libreria Escolar
+
+Carpetas
+Cartucheras
+Crayones
+Cuadernos
+Gomas
+Guillotinas
+Marcadores
+Repuestos
+Bases de Corte
+Block
+Bolígrafo
+Adhesivos
+Cajas de Archivo
+Cintas Adhesivas
+Folios
+Geometría y Dibujo Técnico
+Lápices
+Mochilas
+Sellos
+Separadores
+Tijeras y Cutters
+Regaleria
+Varios
+Broches
+Caligrafía
+Corrector
+
+**Artistica
+
+Lápices
+Acrilicos
+Acuarelas
+Barniz
+Bastidores
+Marcadores
+Pinceles
+Oleos
+Carton Entelado
+Sets
+Atriles
+Blocks
+Tintas
+Accesorios
+Papeleria
+Cajas
+
+**Oficina
+
+Abrochadoras y Perforadoras
+Bandejas
+Biblioratos
+Pizarras
+Rollos
+Sobres
+
+
+

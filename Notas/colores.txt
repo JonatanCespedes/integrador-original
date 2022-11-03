@@ -1,0 +1,7 @@
+Colores
+
+
+Claro:e4e3e3
+Medio:84a9ac
+Medio oscuro:3b6978
+Oscuro:204051

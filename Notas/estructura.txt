@@ -1,0 +1,33 @@
+>Site
+	>bin
+ 	>controllers
+		*indexController.js
+		*userController.js
+		*productDetailController.js
+		*productCartController.js	
+		*productAddController.js
+		*categoriesController.js	
+	>node_modules
+	>public
+		>images
+		>javascript
+		>stylesheets
+			*style.css
+	>routes
+		*index.js
+		*users.js(registro de usuarios)
+		*productDetail.js
+		*productCart.js
+		*productAdd.js
+		*categories.js
+	>views
+		<>error.ejs
+		<>index.ejs
+<>productAdd.ejs
+<>productCart.ejs
+<>producDetail.ejs
+<>register.ejs
+<>categories.ejs
+	*app.js
+	{ }package.json
+	{ }package-lok.json
